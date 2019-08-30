@@ -1,4 +1,4 @@
-# WordPress-contact-form
+# Voila-contact-form
 A WordPress plugin that creates a new page labled "Contact Us" and inserts a contact form through which website visitors can send messages to site admin.
 
 ## Description 
