@@ -1,5 +1,5 @@
 # WordPress-contact-form
-Creates a new page labled "Contact Us" and inserts a contact form through which website visitors can send messages to site admin.
+A WordPress plugin that creates a new page labled "Contact Us" and inserts a contact form through which website visitors can send messages to site admin.
 
 ## Description 
 
@@ -47,7 +47,7 @@ Yes, please contact ict-WP-Plugin-support@itcrackteam.com.
 Voila Contact Form   has a menu under the WordPress admin menu called "Voila Contact Form   Settings"; this is
 where meessage handling could be modified.
 
-### The Contact Form's look and feel do not blend well with my favorite theme, can it be modified? =
+### The Contact Form's look and feel do not blend well with my favorite theme, can it be modified? 
 Yes, please contact ict-WP-Plugin-support@itcrackteam.com.
 
 ### I have my wordpress in my local language, but the plugin is in English; could the plugin be translated to my language?  
